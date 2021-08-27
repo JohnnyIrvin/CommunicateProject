@@ -1,0 +1,7 @@
+[run]
+omit =
+    .pytest_cache/*
+    .venv/*
+    */__pycache__/*
+    api/*
+    controller/*
